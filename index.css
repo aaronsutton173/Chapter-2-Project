@@ -5,9 +5,10 @@ main{
     margin-left: 20px;
     margin-right: 20px;
 }
-{
-    text-align: left;
+h1{
+    text-align: center;
 }
+
 .navbar ul{
     list-style-type: none;
     background-color: rgb(98, 12, 155);
@@ -26,7 +27,7 @@ main{
     background-color: blueviolet;
 }
 .navbar li{
-    float: right;
+    float: left;
 }
 .row{
     width: 100%;
