@@ -24,7 +24,7 @@ h1{
     text-align: center;
 }
 .navbar a:hover{
-    background-color: blueviolet;
+    background-color: rgb(136, 39, 227);
 }
 .navbar li{
     float: left;
